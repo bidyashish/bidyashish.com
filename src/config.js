@@ -1,17 +1,17 @@
 module.exports = {
-  siteTitle: 'Brittany Chiang | Software Engineer',
+  siteTitle: 'Bidyashish Kumar | Software Engineer',
   siteDescription:
-    'Brittany Chiang is a software engineer based in Boston, MA who specializes in building (and occasionally designing) exceptional websites, applications, and everything in between.',
+    'Bidyashish Kumar is a software Developer, who specializes in building exceptional websites, applications, and everything in between.',
   siteKeywords:
-    'Brittany Chiang, Brittany, Chiang, bchiang7, software engineer, front-end engineer, web developer, javascript, northeastern',
-  siteUrl: 'https://brittanychiang.com',
+    'Bidyashish Kumar, Bidyashish, Kumar, Full stack Developer, software engineer, front-end engineer, web developer, javascript, react js, typescript, Asp.net, Azure, Amazon AWS',
+  siteUrl: 'https://bidyashish.com',
   siteLanguage: 'en_US',
-  googleAnalyticsID: 'UA-45666519-2',
-  googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Brittany Chiang',
-  location: 'Boston, MA',
-  email: 'brittany.chiang@gmail.com',
-  github: 'https://github.com/bchiang7',
+  googleAnalyticsID: 'UA-67693524-2',
+  googleVerification: 'Rtn00W6EqArggyPlPStVvbzHXomklftcJ04rkPs2DXI',
+  name: 'Bidyashish Kumar',
+  location: 'Canada',
+  email: 'bidyashishk@gmail.com',
+  github: 'https://github.com/bidyashish',
   twitterHandle: '@bchiang7',
   socialMedia: [
     {
@@ -21,18 +21,6 @@ module.exports = {
     {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/bchiang7',
-    },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
-    },
-    {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7',
-    },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
     },
   ],
 
@@ -44,10 +32,6 @@ module.exports = {
     {
       name: 'Experience',
       url: '/#jobs',
-    },
-    {
-      name: 'Work',
-      url: '/#projects',
     },
     {
       name: 'Contact',
