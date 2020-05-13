@@ -1,10 +1,10 @@
 ---
 date: '2016-12-21'
-title: 'Software Engineer Co-op'
-company: 'Starry'
-location: 'Boston, MA'
+title: 'Software Engineer'
+company: 'Blinkware'
+location: 'Petaling Jaya, Malaysia'
 range: 'July - Dec 2016'
-url: 'https://starry.com/'
+url: 'https://blinkwaretechnology.com/'
 ---
 
 - Engineered and maintained major features of Starry's customer-facing web app using ES6, Handlebars, Backbone, Marionette and CSS
