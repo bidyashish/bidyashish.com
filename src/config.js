@@ -12,15 +12,15 @@ module.exports = {
   location: 'Canada',
   email: 'bidyashishk@gmail.com',
   github: 'https://github.com/bidyashish',
-  twitterHandle: '@bchiang7',
+  twitterHandle: '',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/bchiang7',
+      url: 'https://github.com/bidyashish',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bchiang7',
+      url: 'https://www.linkedin.com/in/bidyashish',
     },
   ],
 
