@@ -1,10 +1,10 @@
 ---
-date: '2016-12-21'
+date: '2017-05-28'
 title: 'Software Engineer'
 company: 'Blinkware'
 location: 'Petaling Jaya, Malaysia'
-range: 'July - Dec 2016'
-url: 'https://blinkwaretechnology.com/'
+range: 'May 2017 - August 2018'
+url: 'http://www.blinkwaretechnology.com/'
 ---
 
 - Developed a real-time web application showing user’s emotions, counts, age, gender. Integrated with Face recognition backend using REST, PHP, MY-SQL, Highcharts.JS, etc.
