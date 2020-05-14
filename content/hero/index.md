@@ -5,4 +5,4 @@ subtitle: 'I build things for the web.'
 buttonText: 'Contact'
 ---
 
-I'm a UI Developer, specializing in building websites, applications, and everything in between.
+I'm a Software Developer, specializing in building websites, applications, and everything in between.

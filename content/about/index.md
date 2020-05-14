@@ -7,7 +7,11 @@ skills:
   - React JS
   - PHP
   - Node JS
-  - Asp.Net
+  - Asp.Net MVC
+  - MySQL
+  - MS-SQL Server
+  - Azure Devops
+  - Amazon AWS
 ---
 
 Hello! I'm Bidyashish Kumar.
