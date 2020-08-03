@@ -5,7 +5,6 @@ const { colors } = theme;
 const InlineLink = styled.a`
   display: inline-block;
   text-decoration: none;
-  text-decoration-skip-ink: auto;
   position: relative;
   transition: ${theme.transition};
   cursor: pointer;

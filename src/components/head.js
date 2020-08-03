@@ -22,9 +22,7 @@ import msIcon144x144 from '@images/favicons/ms-icon-144x144.png';
 const Head = ({ metadata }) => (
   <Helmet>
     <html lang="en" prefix="og: http://ogp.me/ns#" />
-    <title itemProp="name" lang="en">
-      {metadata.title}
-    </title>
+    <title lang="en">{metadata.title}</title>
     <link rel="shortcut icon" href={favicon} />
     <link rel="canonical" href="https://bidyashish.com" />
 
@@ -41,9 +39,9 @@ const Head = ({ metadata }) => (
     <meta property="og:image:height" content="630" />
     <meta property="og:image:type" content="image/png" />
     <meta property="og:locale" content={config.siteLanguage} />
-    <meta itemProp="name" content={metadata.title} />
-    <meta itemProp="description" content={metadata.description} />
-    <meta itemProp="image" content={`${config.siteUrl}${ogImage}`} />
+    <meta content={metadata.title} />
+    <meta content={metadata.description} />
+    <meta content={`${config.siteUrl}${ogImage}`} />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:url" content={metadata.siteUrl} />
     <meta name="twitter:site" content={config.twitterHandle} />
