@@ -38,7 +38,6 @@ const mixins = {
   inlineLink: css`
     display: inline-block;
     text-decoration: none;
-    :auto ;
     position: relative;
     transition: ${theme.transition};
     cursor: pointer;
