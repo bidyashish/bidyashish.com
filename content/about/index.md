@@ -3,13 +3,13 @@ title: 'About Me'
 avatar: './me.jpg'
 skills:
   - JavaScript (ES5+)
-  - HTML, LESS & (S)CSS
+  - HTML, LESS, SCSS
   - React JS
-  - PHP
+  - Express JS
   - Node JS
-  - Asp.Net MVC
+  - PostgreSQL
   - MySQL
-  - MS-SQL Server
+  - Microsoft Azure certified
   - Azure Devops
   - Amazon AWS
 ---
@@ -20,6 +20,6 @@ I am a highly motivated, curious Software developer with 5 plus years of profess
 
 My Specialties include quickly learning new skills and programming languages, problem-solving, responsive design principles, mobile-first approach, web apps optimization with respect to performance and code quality. I believe in constant improvements.
 
-I am currently working at the Design team at [Ultradata](https://www.ultradata.com.au/) where I work on a wide variety of interesting and meaningful projects on a daily basis.
+I am currently working at the Innovation team at [Ultradata](https://www.ultradata.com.au/) where I work on a wide variety of interesting and meaningful projects on a daily basis.
 
 Here are a few technologies I've been working with recently:
