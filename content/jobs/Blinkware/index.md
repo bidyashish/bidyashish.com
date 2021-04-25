@@ -15,4 +15,4 @@ url: 'http://www.blinkwaretechnology.com/'
 - Individually created Face recognition web application integrating with Artificial Intelligence utilizing REST API and Micro-services architecture.
 - Initiated new infrastructure and features to satisfy customers’ requirements on reporting, managing personnel, and portal customization.
 - Developed and integrated MapView with Google Sheets, PostgreSQL, and shell scripts to create daily report dashboards to provide visualization to the company and customers’ performance.
-  -- Top Skills: Javascript (ES5+), Typescript, Amazon AWS, Node JS, PHP, Jquery, React JS, SASS, LESS, VsCode, Apache Server, Nginx, PostgreSQL
+  -- Top Skills: Javascript (ES5+), Typescript, Amazon AWS, Node JS, PHP, Laravel, Jquery, React JS, SASS, LESS, VsCode, Apache Server, Nginx, PostgreSQL

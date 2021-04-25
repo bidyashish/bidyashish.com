@@ -1,9 +1,9 @@
 ---
-date: '2020-06-14'
-title: 'UI Developer'
+date: '2018-09-14'
+title: 'Digital Designer'
 company: 'Ultradata'
 location: 'Kuala Lumpur, Malaysia'
-range: 'June 2020 - Present'
+range: 'September 2018 - May 2020'
 url: 'https://www.ultradata.com.au/'
 ---
 
