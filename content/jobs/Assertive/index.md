@@ -4,7 +4,7 @@ title: 'Software Developer'
 company: 'Assertive'
 location: 'India'
 range: 'April 2016 - June 2017'
-url: ''
+url: '#'
 ---
 
 - Developed e-commerce features, catalogue, cart, PDF invoices, reporting, email templates.
