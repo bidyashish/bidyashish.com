@@ -10,7 +10,7 @@ module.exports = {
   googleVerification: 'Rtn00W6EqArggyPlPStVvbzHXomklftcJ04rkPs2DXI',
   name: 'Bidyashish Kumar',
   location: 'Canada',
-  email: 'bidyashishk@gmail.com',
+  email: 'bidya@bidyashish.com',
   github: 'https://github.com/bidyashish',
   twitterHandle: '',
   socialMedia: [
