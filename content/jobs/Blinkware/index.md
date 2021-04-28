@@ -3,7 +3,7 @@ date: '2017-06-27'
 title: 'Software Engineer'
 company: 'Blinkware'
 location: 'Petaling Jaya, Malaysia'
-range: 'June 2017 - June 2018'
+range: 'July 2017 - June 2018'
 url: 'http://www.blinkwaretechnology.com/'
 ---
 
