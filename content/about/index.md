@@ -16,7 +16,7 @@ skills:
 
 Hello! I'm Bidyashish Kumar.
 
-I am a highly motivated, curious Software developer with 5 plus years of professional experience.
+I am a highly motivated, curious Software developer with years of professional experience.
 
 My Specialties include quickly learning new skills and programming languages, problem-solving, responsive design principles, mobile-first approach, web apps optimization with respect to performance and code quality. I believe in constant improvements.
 
