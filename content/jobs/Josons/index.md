@@ -1,10 +1,10 @@
 ---
-date: '2016-02-1'
-title: 'Web Developer'
-company: 'Josons'
-location: 'Jounieh, Lebanon'
-range: 'February 2016 - April 2016'
-url: 'https://www.josons.com/'
+date: "2016-02-1"
+title: "Web Developer"
+company: "Josons"
+location: ""
+range: "February 2016 - April 2016"
+url: "https://www.josons.com/"
 ---
 
 - Developed e-commerce features, catalogue, cart, PDF invoices, reporting, email templates.

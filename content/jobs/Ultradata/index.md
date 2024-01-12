@@ -1,10 +1,10 @@
 ---
-date: '2020-06-14'
-title: 'UI Developer'
-company: 'Ultradata'
-location: 'Kuala Lumpur, Malaysia'
-range: 'June 2020 - Present'
-url: 'https://www.ultradata.com.au/'
+date: "2020-06-14"
+title: "UI Developer"
+company: "Ultradata"
+location: "Kuala Lumpur, Malaysia"
+range: "June 2020 - October 2021"
+url: "https://www.ultradata.com.au/"
 ---
 
 - Responsible for front-end development of Ultracs CMS for various Banks and Credit Unions.
