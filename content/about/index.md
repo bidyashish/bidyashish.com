@@ -1,6 +1,6 @@
 ---
-title: 'About Me'
-avatar: './me.jpg'
+title: "About Me"
+avatar: "./me.jpg"
 skills:
   - JavaScript (ES5+)
   - HTML, LESS, SCSS
@@ -16,10 +16,8 @@ skills:
 
 Hello! I'm Bidyashish Kumar.
 
-I am a highly motivated, curious Software developer with years of professional experience.
+As a software developer, I have a passion for creating innovative and user-friendly web applications using various technologies and frameworks. I have a Bachelor of Engineering degree in Computer Science from Visvesvaraya Technological University, where I gained a solid foundation in programming, data structures, algorithms, and software engineering principles.
 
-My Specialties include quickly learning new skills and programming languages, problem-solving, responsive design principles, mobile-first approach, web apps optimization with respect to performance and code quality. I believe in constant improvements.
-
-I am currently working at the Innovation team at [Ultradata](https://www.ultradata.com.au/) where I work on a wide variety of interesting and meaningful projects on a daily basis.
+I have worked as a software developer at Imagine Everything and Ultradata, where I developed key UI components for online banking, international transfer, and loan applications, using React.js, JavaScript ES6+, TypeScript, and NodeJS, Express JavaScript. I also pioneered the front-end features for home loan key fact sheets for banking clients, leveraging my expertise in responsive design, accessibility, localization, and code quality. I collaborated with cross-functional teams of developers, designers, and stakeholders daily, and optimized the code performance and reliability of fintech software-as-a-service products. Additionally, I have experience working in the artificial intelligence industry, using machine learning to build end-to-end web applications for AI apps. I have also used GoLang, C#, ASP.NET/MVC, PHP, Python, and Azure DevOps as backend and deployment tools, and have worked with cloud environments like AWS and Azure.
 
 Here are a few technologies I've been working with recently:
